@@ -1,0 +1,4 @@
+awk -F ' ' {print $1} <filename>
+sed 's/old_text/new_text/' <filename>
+grep -i 'any pattern' <filename>
+find . -type f -name "*.txt"
