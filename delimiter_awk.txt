@@ -1,0 +1,8 @@
+Alice,23    85
+Bob  30,90
+Charlie    25  88
+David,22    75
+Eva    27,92
+
+syntax
+awk -F '[ ,\t]+' {print $1 $2}
