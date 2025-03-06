@@ -1,0 +1,6 @@
+git init
+git clone <URL>
+git add <filename>
+git commit -m "<message>"
+git push
+git pull
