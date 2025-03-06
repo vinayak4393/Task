@@ -1,0 +1,14 @@
+
+touch <filename> (creates new file)
+
+mkdir <directory name> (creates directory)
+
+ls (list files(f) and directories(d))
+ls -a (list all f and d including hidden)
+ls -t (time)
+ls -r (reverse order)
+ls -l (long option description)
+
+pwd (present working directory with absolute path)
+
+
