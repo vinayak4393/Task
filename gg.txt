@@ -3,5 +3,4 @@ ls
 pwd
 cp, mv
 rm
-cat, tac
 
