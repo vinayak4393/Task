@@ -1,0 +1,4 @@
+revert
+reset 
+branch
+merge
