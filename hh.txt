@@ -2,3 +2,6 @@ revert
 reset 
 branch
 merge
+rebase
+pull
+fetch
